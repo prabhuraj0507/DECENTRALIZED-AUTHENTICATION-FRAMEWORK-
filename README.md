@@ -2,17 +2,17 @@
 A NOVEL DECENTRALIZED AUTHENTICATION FRAMEWORK WITH GEOLOCATION AND MFA ENABLED JWT FOR P2P SOCIAL NETWORK APPLICATIONS
 
  # INTRODUCTION
- P2POnlineSocialNetworks(P2POSNs)promoteprivacy,
+ P2P Online SocialNetworks(P2POSNs) promote privacy,
  security, and user control, eliminating centralized data
  reliance.
  Decentralized networks face authentication and
  authorization challenges, including identity spoofing and
  Sybilattacks.
  The paper proposes a decentralized authentication
- frameworkusingAES-GCMencryption,SHA512withRSAfor
- signatures,andJWTforsessionmanagement.
- Multi-FactorAuthentication(MFA)withOTPandgeolocation
- enhancessecurity,preventingunauthorizedaccess.
- Future improvements includescalability throughdistributed
- cloudenvironmentsand integrationof biometricverification
- foraddedsecurity
+ frame work using AES-GCM encryption,SHA512withRSA for
+ signatures,and JWT for sessionmanagement.
+ Multi-Factor Authentication(MFA) with OTP and geolocation
+ enhances security,preventing unauthorized access.
+ Future improvements include scalability through distributed
+ cloud environments and integrationof biometric verification
+ for added security
